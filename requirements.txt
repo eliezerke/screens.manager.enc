@@ -1,6 +1,3 @@
 flask
 playwright
-a2wsgi
-uvicorn
-gunicorn
 playwright-stealth
