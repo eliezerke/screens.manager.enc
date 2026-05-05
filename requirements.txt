@@ -1,3 +1,6 @@
 flask
 playwright
 playwright-stealth
+python-dotenv
+requests
+playwright install
